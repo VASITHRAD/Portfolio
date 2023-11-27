@@ -28638,7 +28638,7 @@ const Home = ({ name , title  })=>{
                 alt: "",
                 style: {
                     width: "80%",
-                    height: "100%",
+                    height: "90%",
                     top: "5rem",
                     objectFit: "cover"
                 }
@@ -28651,7 +28651,7 @@ const Home = ({ name , title  })=>{
                 style: {
                     position: "absolute",
                     top: "6rem",
-                    left: "8rem",
+                    left: "9rem",
                     width: "17rem"
                 },
                 children: [
